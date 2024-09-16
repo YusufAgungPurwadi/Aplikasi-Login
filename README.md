@@ -1,6 +1,6 @@
-# Aplikasi-Login
+# Aplikasi-Biodata-MahasiswaEsaUngggul
 ==
-Studi kasus aplikasi dengan fitur login
+Studi kasus aplikasi fitur Biodata Mahasiswa Esa Unggul
 --
 *Berikut Alur fitur login:*
 1. Masukan email anda dan password anda
