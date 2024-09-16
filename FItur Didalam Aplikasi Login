@@ -1,0 +1,15 @@
+#
+Fitur yg ada didalam fitur login
+--
+*Fitur yg terdapat difitur login yaitu:*
+1. Apakah sudah memliki akun apa belum? Jika sudah langkah pertama yaitu
+2. Memasukan Nama_id yg telah dibuat sebelumnya
+3. Memasukan Password yg telah dibuat sebelumnya
+
+--
+*Fitur ini ketika client belum memiliki akun*
+1. Memasukan nama pribadi secara lengkap
+2. Memasukan jenis kelamin dan umur
+3. Membuat password sesuai ketentuan yg sudah dibuat oleh admmin
+4. Menggulangi kata sandi tersebut yg sudah dibuat sebelumnya
+5. Jika sudah maka client diminta untuk kembali ke fitur halaman login
