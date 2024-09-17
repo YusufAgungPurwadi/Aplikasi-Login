@@ -6,4 +6,5 @@ Berikut Alur fitur login:<br>
 1. Masukan email anda dan password anda<br>
 2. Memvalidasi masukan<br>
 3. Menampilkan halaman beranda<br>
+4. Menampilkan data data mahasiswa esa unggul
 </P>
